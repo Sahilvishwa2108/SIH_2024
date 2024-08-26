@@ -1,0 +1,27 @@
+{
+  "name": "sih",
+  "version": "1.0.0",
+  "description": "Waste Reuse Solution",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahilvishwa2108/SIH_2024.git"
+  },
+  "author": "Sahil Vishwakarma, Arnav Yadav, Mayuri Pal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sahilvishwa2108/SIH_2024/issues"
+  },
+  "homepage": "https://github.com/Sahilvishwa2108/SIH_2024#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
